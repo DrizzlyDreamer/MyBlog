@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5506a1bf-cb73-43cc-bd93-a7ef5276ea68" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/common/aopLog/LogAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/common/aopLog/LogAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/config/MybatisPlusConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/config/WebMVCConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/config/WebMVCConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/src/main/java/com/zhang/blog/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/src/main/resources/com/zhang/blog/dao/mapper/TagMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/src/main/resources/com/zhang/blog/dao/mapper/TagMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/target/classes/com/zhang/blog/config/WebMVCConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/target/classes/com/zhang/blog/config/WebMVCConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-parent/blog-api/target/classes/com/zhang/blog/service/impl/LoginServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/blog-parent/blog-api/target/classes/com/zhang/blog/service/impl/LoginServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/blog-parent" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Environment\apache-maven-3.8.3-bin\respository" />
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.8.3-bin/apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.8.3-bin\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24r0a8DHsdMiHdyHRhumbdYvmmv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="SQL Inserts" />
+    <property name="database.data.extractors.current.id" value="SQL Inserts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Blog资料/博客项目/最新前端和后端/blog-parent/blog-api" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40229884" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-admin\src\main\resources" />
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-api\src\main\resources\com" />
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-admin\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-api\src\main\resources\static\img" />
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-api\src\main\resources\static" />
+      <recent name="C:\Users\zhangshidi\Desktop\MyBlog\blog-parent\blog-api\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.blog-api [-U,clean,package]">
+    <configuration name="LoginServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.blog.service.impl.LoginServiceImpl" />
+      <module name="blog-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.blog.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.blog.admin.config.SecurityConfig" />
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.blog.admin.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityUserService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhang.blog.admin.service.SecurityUserService" />
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.blog.admin.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blog-admin [-U,clean,package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-U" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="prod" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog-parent/blog-admin" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="blog-api [-U,clean,package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="-U" />
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map>
+                <entry key="prod" value="true" />
+              </map>
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/blog-parent/blog-api" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="AdminApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="blog-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhang.blog.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhang.blog.admin.AdminApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhang.blog.BlogApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LoginServiceImpl" />
+      <item itemvalue="Application.SecurityConfig" />
+      <item itemvalue="Application.SecurityUserService" />
+      <item itemvalue="Maven.blog-admin [-U,clean,package]" />
+      <item itemvalue="Maven.blog-api [-U,clean,package]" />
+      <item itemvalue="Spring Boot.BlogApp" />
+      <item itemvalue="Spring Boot.AdminApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoginServiceImpl" />
+        <item itemvalue="Application.SecurityConfig" />
+        <item itemvalue="Application.SecurityUserService" />
+        <item itemvalue="Spring Boot.AdminApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5506a1bf-cb73-43cc-bd93-a7ef5276ea68" name="Changes" comment="" />
+      <created>1644373458478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644373458478</updated>
+      <workItem from="1644373459856" duration="13000" />
+      <workItem from="1644394612322" duration="106000" />
+      <workItem from="1644394729642" duration="194000" />
+      <workItem from="1644394942114" duration="170000" />
+      <workItem from="1644395125468" duration="120000" />
+      <workItem from="1644395265492" duration="54000" />
+      <workItem from="1644395326051" duration="36000" />
+      <workItem from="1644395376330" duration="49000" />
+      <workItem from="1644395634016" duration="65000" />
+      <workItem from="1644395711591" duration="117000" />
+      <workItem from="1644395847070" duration="70972000" />
+      <workItem from="1644594740698" duration="30000" />
+      <workItem from="1644804419994" duration="13768000" />
+      <workItem from="1644826491240" duration="468000" />
+      <workItem from="1644826983966" duration="26436000" />
+      <workItem from="1644996389591" duration="14384000" />
+      <workItem from="1645066423041" duration="6772000" />
+      <workItem from="1645101492692" duration="1285000" />
+      <workItem from="1645153190998" duration="3976000" />
+      <workItem from="1645337100421" duration="12028000" />
+      <workItem from="1645424368716" duration="15394000" />
+      <workItem from="1645447103497" duration="3008000" />
+      <workItem from="1645455523362" duration="5000" />
+      <workItem from="1645517688533" duration="8563000" />
+      <workItem from="1645599491562" duration="13246000" />
+      <workItem from="1645624454183" duration="598000" />
+      <workItem from="1645687182244" duration="17135000" />
+      <workItem from="1645711408932" duration="5568000" />
+      <workItem from="1645717567671" duration="22632000" />
+      <workItem from="1645860499238" duration="1830000" />
+      <workItem from="1645941222221" duration="3680000" />
+      <workItem from="1645950146306" duration="16000" />
+      <workItem from="1645950264106" duration="1335000" />
+      <workItem from="1646129382337" duration="227000" />
+      <workItem from="1646129982358" duration="9417000" />
+      <workItem from="1646186077326" duration="34984000" />
+      <workItem from="1646275966156" duration="16711000" />
+      <workItem from="1646451259081" duration="590000" />
+      <workItem from="1646452480206" duration="194000" />
+      <workItem from="1646462967133" duration="66000" />
+      <workItem from="1646879701591" duration="19526000" />
+      <workItem from="1646990171885" duration="2611000" />
+      <workItem from="1646999131523" duration="5989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
